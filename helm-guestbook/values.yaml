@@ -11,7 +11,7 @@ image:
 
 service:
   type: ClusterIP
-  port: 8087
+  port: 8088
 
 ingress:
   enabled: false
